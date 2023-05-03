@@ -1,0 +1,271 @@
+[
+    {
+        "id": "TR001",
+        "food_img":"https://im.haberturk.com/2020/11/04/ver1604443406/2858225_810x458.jpg",
+        "name": "Adana Kebabı",
+        "cooking_method": "Grilling",
+        "rating": 4.5,
+        "ingredients": [
+            "500 grams ground lamb",
+            "1 onion, grated",
+            "2 cloves garlic, minced",
+            "2 teaspoons red pepper flakes",
+            "1 teaspoon ground cumin",
+            "Salt and pepper, to taste",
+            "Skewers (metal or wooden, soaked in water for 30 minutes)"
+        ]
+    },
+    {
+        "id": "TR002",
+        "food_img":"https://hayatsorgusu.com/wp-content/uploads/karniyarik-tarifi-678x381.jpg.webp",
+        "name": "Karnıyarık",
+        "cooking_method": "Baking",
+        "rating": 4.7,
+        "ingredients": [
+            "4 medium-sized eggplants",
+            "500 grams ground beef or lamb",
+            "2 onions, finely chopped",
+            "3 cloves garlic, minced",
+            "3 tomatoes, finely chopped",
+            "2 green peppers, finely chopped",
+            "2 tablespoons tomato paste",
+            "1/4 cup vegetable oil",
+            "Salt and pepper, to taste",
+            "Parsley or dill, chopped for garnish"
+        ]
+    },
+    {
+        "id": "TR003",
+        "food_img":"https://www.panningtheglobe.com/wp-content/uploads/2013/11/turkish-manti-web-best.jpg",
+        "name": "Manti",
+        "cooking_method": "Boiling",
+        "rating": 4.6,
+        "ingredients": [
+            "For the dough:",
+            "2 cups all-purpose flour",
+            "1/2 teaspoon salt",
+            "2 eggs",
+            "1/2 cup water",
+            "For the filling:",
+            "500 grams ground beef or lamb",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 teaspoon red pepper flakes",
+            "Salt and pepper, to taste",
+            "For the sauce:",
+            "2 cups plain yogurt",
+            "2 cloves garlic, minced",
+            "1/4 cup butter",
+            "1 tablespoon red pepper flakes",
+            "Salt and pepper, to taste"
+        ]
+    },
+    {
+        "id": "TR004",
+        "food_img":"https://www.giverecipe.com/wp-content/uploads/2009/09/Serving-Imambayildi.jpg",
+        "name": "İmam Bayıldı",
+        "cooking_method": "Baking",
+        "rating": 4.4,
+        "ingredients": [
+            "4 long, thin eggplants",
+            "2 large onions, chopped",
+            "3 large tomatoes, chopped",
+            "4-5 cloves garlic, minced",
+            "1/4 cup olive oil",
+            "1/4 cup chopped fresh parsley",
+            "1 tablespoon tomato paste",
+            "Salt and pepper, to taste"
+        ]
+    },
+    {
+        "id": "TR005",
+        "food_img":"https://www.modernhoney.com/wp-content/uploads/2023/03/Baklava-8-crop-1024x814.jpg",
+        "name": "Baklava",
+        "cooking_method": "Baking",
+        "rating": 4.8,
+        "ingredients": [
+            "For the dough:",
+            "3 cups all-purpose flour",
+            "1/2 cup unsalted butter, melted",
+            "1/2 cup milk",
+            "1/2 cup water",
+            "1/2 teaspoon salt",
+            "For the filling:",
+            "3 cups finely chopped walnuts",
+            "1/2 cup sugar",
+            "1 tablespoon ground cinnamon",
+            "1/4 teaspoon ground cloves",
+            "For the syrup:",
+            "2 cups sugar",
+            "1 cup water",
+            "1/4 cup honey",
+            "1 cinnamon stick",
+            "3-4 cloves",
+            "Juice of half a lemon"
+        ]
+    },
+    {
+        "id": "TR006",
+        "food_img":"https://turkishstylecooking.com/wp-content/uploads/2012/02/lahmacun1-768x512.jpg",
+        "name": "Lahmacun",
+        "cooking_method": "Baking",
+        "rating": 4.6,
+        "ingredients": [
+            "For the dough:",
+            "4 cups all-purpose flour",
+            "1 tablespoon instant yeast",
+            "1 tablespoon sugar",
+            "1 tablespoon salt",
+            "1/4 cup olive oil",
+            "1 1/2 cups warm water",
+            "For the topping:",
+            "500 grams ground beef or lamb",
+            "2 onions, finely chopped",
+            "3-4 tomatoes, finely chopped",
+            "1-2 green peppers, finely chopped",
+            "3-4 cloves garlic, minced",
+            "1 tablespoon tomato paste",
+            "2 teaspoons red pepper flakes",
+            "2 teaspoons ground cumin",
+            "Salt and pepper, to taste"
+        ]
+    },
+    {
+        "id": "TR007",
+        "food_img":"https://isbh.tmgrup.com.tr/sbh/2016/02/10/650x344/1455115731340.jpg",
+        "name": "Mercimek Köftesi",
+        "cooking_method": "No-cook",
+        "rating": 4.7,
+        "ingredients": [
+            "2 cups red lentils",
+            "1 cup fine bulgur",
+            "1 onion, finely chopped",
+            "3-4 green onions, finely chopped",
+            "1/2 cup chopped fresh parsley",
+            "1/4 cup chopped fresh mint",
+            "1/4 cup tomato paste",
+            "1/4 cup pomegranate molasses",
+            "2 tablespoons red pepper paste",
+            "1 tablespoon cumin",
+            "Salt and pepper, to taste",
+            "Lettuce leaves and lemon wedges, for serving"
+        ]
+    },
+    {
+        "id": "TR008",
+        "food_img":"https://emiliasfoodcravings.com/wp-content/uploads/2022/04/menemen-4-1229x1536.jpg",
+        "name": "Menemen",
+        "cooking_method": "Stovetop",
+        "rating": 4.5,
+        "ingredients": [
+            "3 tablespoons butter",
+            "1 onion, chopped",
+            "2-3 tomatoes, chopped",
+            "2-3 green peppers, chopped",
+            "4-5 eggs",
+            "Salt and pepper, to taste",
+            "Crusty bread, for serving"
+        ]
+    },
+    {
+        "id": "TR009",
+        "food_img":"https://www.themediterraneandish.com/wp-content/uploads/2021/03/menemen-recipe-5-1024x1536.jpg",
+        "name": "Tavuk Şiş",
+        "cooking_method": "Grilling",
+        "rating": 4.8,
+        "ingredients": [
+            "500 grams boneless, skinless chicken breasts, cut into chunks",
+            "1 onion, grated",
+            "2 cloves garlic, minced",
+            "1 tablespoon tomato paste",
+            "1 tablespoon red pepper flakes",
+            "1 tablespoon ground cumin",
+            "1/4 cup olive oil",
+            "Salt and pepper, to taste",
+            "Skewers (metal or wooden, soaked in water for 30 minutes)"
+        ]
+    },
+    {
+        "id": "TR010",
+        "food_img":"https://www.giverecipe.com/wp-content/uploads/2020/08/Turkish-pide-with-cheese-and-ground-meat.jpg",
+        "name": "Pide",
+        "cooking_method": "Baking",
+        "rating": 4.6,
+        "ingredients": [
+            "For the dough:",
+            "4 cups all-purpose flour",
+            "1 tablespoon instant yeast",
+            "1 tablespoon sugar",
+            "1 tablespoon salt",
+            "1/4 cup olive oil",
+            "1 1/2 cups warm water",
+            "For the topping:",
+            "500 grams ground beef or lamb",
+            "2 onions, finely chopped",
+            "3-4 tomatoes, finely chopped",
+            "1-2 green peppers, finely chopped",
+            "3-4 cloves garlic, minced"
+        ]
+    },
+    {
+        "id": "TR011",
+        "food_img":"https://www.thespruceeats.com/thmb/RUjUVsEGw2cWazDMsHJMohin26o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fotolia_46823604_M-56a993fd5f9b58b7d0fcf002.jpg",
+        "name": "Çiğ Köfte",
+        "cooking_method": "No-cook",
+        "rating": 4.9,
+        "ingredients": [
+            "500 grams fine bulgur",
+            "500 grams ground beef or lamb",
+            "2 onions, finely chopped",
+            "3-4 green onions, finely chopped",
+            "1/2 cup chopped fresh parsley",
+            "1/4 cup chopped fresh mint",
+            "1/4 cup tomato paste",
+            "2 tablespoons red pepper paste",
+            "2 tablespoons ground cumin",
+            "1 tablespoon sumac",
+            "1 tablespoon paprika",
+            "2 teaspoons salt",
+            "2-3 teaspoons red pepper flakes",
+            "1 teaspoon black pepper"
+        ]
+    },
+    {
+        "id": "TR012",
+        "food_img":"https://imgrosetta.mynet.com.tr/file/12063304/12063304-728xauto.jpg",
+        "name": "Karnıyarık",
+        "cooking_method": "Stovetop and baking",
+        "rating": 4.7,
+        "ingredients": [
+            "4 eggplants",
+            "500 grams ground beef or lamb",
+            "2 onions, finely chopped",
+            "3-4 tomatoes, finely chopped",
+            "2-3 green peppers, finely chopped",
+            "3-4 cloves garlic, minced",
+            "1 tablespoon tomato paste",
+            "1 tablespoon red pepper flakes",
+            "1 tablespoon ground cumin",
+            "1/4 cup olive oil",
+            "Salt and pepper, to taste"
+        ]
+    },
+    {
+        "id": "TR013",
+        "food_img":"https://i.lezzet.com.tr/images-xxlarge-recipe/ispanakli_tepsi_boregi-814acdf6-ff24-4e1a-899f-5033655ed6d8.jpg",
+        "name": "Ispanaklı Börek",
+        "cooking_method": "Baking",
+        "rating": 4.8,
+        "ingredients": [
+            "500 grams spinach, chopped",
+            "1 onion, chopped",
+            "1/2 cup chopped fresh parsley",
+            "1/4 cup chopped fresh dill",
+            "1/2 cup feta cheese, crumbled",
+            "1/2 cup ricotta cheese",
+            "3 eggs",
+            "1/4 cup olive oil"
+        ]
+    }    
+           
+]
