@@ -2,7 +2,7 @@
     {
       "_id": "CH001",
       "name": "Mehmet Gürs",
-      "picture": "https://example.com/mehmet-gurs.jpg",
+      "picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "bio": "Mehmet Gürs is a renowned chef and restaurateur, known for his innovative Turkish cuisine.",
       "years_experience": 20,
       "number_of_recipes": 50,
@@ -12,7 +12,7 @@
     {
       "_id": "CH002",
       "name": "Nuray Yılmaz",
-      "picture": "https://example.com/nuray-yilmaz.jpg",
+      "picture": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "bio": "Nuray Yılmaz is a famous chef who specializes in traditional Anatolian cuisine.",
       "years_experience": 15,
       "number_of_recipes": 30,
@@ -22,7 +22,7 @@
     {
       "_id": "CH003",
       "name": "Cem Yılmaz",
-      "picture": "https://example.com/cem-yilmaz.jpg",
+      "picture": "https://images.pexels.com/photos/3771120/pexels-photo-3771120.jpeg?auto=compress&cs=tinysrgb&w=600",
       "bio": "Cem Yılmaz is a popular chef and food blogger, known for his easy-to-follow recipes and entertaining v_ideos.",
       "years_experience": 10,
       "number_of_recipes": 20,
@@ -32,7 +32,7 @@
     {
         "_id": "CH004",
         "name": "Selin Kiazim",
-        "picture": "https://example.com/selin-kiazim.jpg",
+        "picture": "https://images.pexels.com/photos/3771812/pexels-photo-3771812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "bio": "Selin Kiazim is a talented chef and cookbook author, known for her modern interpretations of Turkish cuisine.",
         "years_experience": 12,
         "number_of_recipes": 25,
@@ -42,7 +42,7 @@
       {
         "_id": "CH005",
         "name": "Musa Dağdeviren",
-        "picture": "https://example.com/musa-dagdeviren.jpg",
+        "picture": "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=600",
         "bio": "Musa Dağdeviren is a world-renowned chef and restaurateur, famous for his research and revival of traditional Anatolian dishes.",
         "years_experience": 30,
         "number_of_recipes": 60,
@@ -52,7 +52,7 @@
       {
         "_id": "CH006",
         "name": "D_idem Şenol Tiryakioğlu",
-        "picture": "https://example.com/d_idem-senol-tiryakioglu.jpg",
+        "picture": "https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&w=600https://example.com/d_idem-senol-tiryakioglu.jpg",
         "bio": "D_idem Şenol Tiryakioğlu is a celebrated chef and cookbook author, who has received numerous awards for her culinary achievements.",
         "years_experience": 18,
         "number_of_recipes": 40,
@@ -62,7 +62,7 @@
       {
         "_id": "CH007",
         "name": "Murat Bozok",
-        "picture": "https://example.com/murat-bozok.jpg",
+        "picture": "https://images.pexels.com/photos/3785718/pexels-photo-3785718.jpeg?auto=compress&cs=tinysrgb&w=600",
         "bio": "Murat Bozok is a young and talented chef, who has quickly made a name for himself with his modern and innovative take on Turkish cuisine.",
         "years_experience": 6,
         "number_of_recipes": 15,
@@ -72,7 +72,7 @@
       {
         "_id": "CH008",
         "name": "Aylin Yazıcıoğlu",
-        "picture": "https://example.com/aylin-yazicioglu.jpg",
+        "picture": "https://images.pexels.com/photos/8590707/pexels-photo-8590707.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "bio": "Aylin Yazıcıoğlu is a creative chef and food stylist, who has worked with some of the biggest names in the Turkish culinary scene.",
         "years_experience": 14,
         "number_of_recipes": 35,
