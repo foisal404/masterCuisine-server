@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "John Smith",
+      "comment": "Master Cuisine has been a game-changer for me in the kitchen! The recipes are delicious and easy to follow, and I've learned so much from the cooking classes. I highly recommend this platform to anyone who loves to cook.",
+      "rating": 5,
+      "photo": "https://images.unsplash.com/photo-1548382131-e0ebb1f0cdea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "comment": "I recently hired a chef through Master Cuisine for a private dinner party, and I was blown away by the quality of the food and the professionalism of the chef. The service was easy to use and the chef was very accommodating to my requests. I will definitely be using this service again!",
+      "rating": 4,
+      "photo": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Mark Johnson",
+      "comment": "I love the community aspect of Master Cuisine! It's great to connect with other food enthusiasts and learn new recipes and techniques. The ingredient delivery service is also a lifesaver, especially during busy weeks.",
+      "rating": 4.5,
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    }
+]

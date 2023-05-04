@@ -1,0 +1,21 @@
+[
+    {
+       "id": 1,
+       "name": "Recipe Sharing Platform",
+       "picture": "https://static01.nyt.com/images/2021/04/28/dining/26Cookpad-6/26Cookpad-6-superJumbo-v2.jpg?quality=75&auto=webp",
+       "details": "Share your favorite recipes, photos, and cooking tips "
+    },
+    {
+       "id": 2,
+       "name": "Cooking Classes",
+       "picture": "https://www.essexresort.com/i/SITE_170315_14300405_91EOU/content/CMS_10022017_111254590_R3HK4/A07CD8A2-D44E-3AEF-DE94D1A92EE1B1B3.JPG",
+       "details": "Learn from experienced chefs in-person or online."
+    },
+    {
+       "id": 3,
+       "name": "Chef Matching Service",
+       "picture": "https://www.cleanuniforms.com/wp-content/uploads/2021/10/chef-coats-1000x430.jpg",
+       "details": "Need a chef for your next event or dinner party? !"
+    }
+    
+ ]
